@@ -5,6 +5,6 @@
 - 📫 How to reach me mail at vaicozchhillar@gmail.com
 
 <!---
-VaibhavChhillar/VaibhavChhillar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vaibhav Chhillar/VaibhavChhillar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
